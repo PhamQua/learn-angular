@@ -1,0 +1,23 @@
+.object{
+    padding: 10px 40px;
+    display: flex;
+    flex-direction: column;
+}
+.infor-name{
+    width: 200px;
+}
+.infor-address{
+    width: 200px;
+}
+.cart{
+    margin-left: 40px;
+}
+.title-shipping{
+    margin-left: 40px;
+}
+.button{
+    margin: 10px 0 0 40px;
+    background: blue;
+    color: white;
+    padding: 5px 10px;
+}

@@ -1,0 +1,17 @@
+p {
+  font-family: Lato;
+}
+
+.contain {
+  padding-left: 30px;
+  text-decoration: none;
+}
+
+.material-icons {
+  padding-right: 10px;
+
+}
+
+a {
+  text-decoration: none;
+}
